@@ -1,0 +1,15 @@
+Cuaca,Suhu,Kelembaban,Berangin,Main
+Cerah,Panas,Tinggi,Salah,Tidak
+Cerah,Panas,Tinggi,Benar,Tidak
+Berawan,Panas,Tinggi,Salah,Ya
+Hujan,Sejuk,Tinggi,Salah,Ya
+Hujan,Dingin,Normal,Salah,Ya
+Hujan,Dingin,Normal,Benar,Ya
+Berawan,Dingin,Normal,Benar,Ya
+Cerah,Sejuk,Tinggi,Salah,Tidak
+Cerah,Dingin,Normal,Salah,Ya
+Hujan,Sejuk,Normal,Salah,Ya
+Cerah,Sejuk,Normal,Benar,Ya
+Berawan,Sejuk,Tinggi,Benar,Ya
+Berawan,Panas,Normal,Salah,Ya
+Hujan,Sejuk,Tinggi,Benar,Tidak
