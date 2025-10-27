@@ -42,7 +42,7 @@ def prob_notbuy(day, free, disc):
     p *= discount_df.loc[discount_df.Discount == disc, 'Buy_No'].values[0] / total_buy_no
     return p
 
-# tugas a-h
+# Kasus uji A-H
 cases = [
     ("Weekday", "Yes", "Yes"),
     ("Weekday", "Yes", "No"),
