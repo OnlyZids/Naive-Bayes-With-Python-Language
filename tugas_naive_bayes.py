@@ -62,4 +62,3 @@ for i, (day, fd, disc) in enumerate(cases, start=1):
     print(f"   P(Buy|X)     = {pb:.8f}")
     print(f"   P(NotBuy|X)  = {pnb:.8f}")
     print(f"   👉 Prediksi: {keputusan}\n")
-
